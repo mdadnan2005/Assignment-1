@@ -84,14 +84,16 @@ h2{
       margin: 0 160px 127px;
 }
 .stats {
-      display: flex;
-      
+      display: flex; 
       justify-content: space-around;
       margin-top: 40px;
 }
 h3{
-      font-size: 32px;
+      font-size: 55px;
       color: #3c3cff;
+}
+.stat-block p{
+  color: #85878a;
 }
 .reviews{
     text-align:center;
